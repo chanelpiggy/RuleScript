@@ -16,9 +16,9 @@ HOST-SUFFIX,appsflyer.com,Bybit
 HOST-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com,Bybit
 HOST-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de,Bybit
 HOST-SUFFIX,monitor-frontend-collector.a.bybit-aws.com,Bybit
-HOST,bybit-exchange.github.io
-HOST,app-measurement.com
-HOST,bybit.ada.support
+HOST,bybit-exchange.github.io,Bybit
+HOST,app-measurement.com,Bybit
+HOST,bybit.ada.support,Bybit
 HOST-SUFFIX,amazon.com,Bybit
 HOST-SUFFIX,amazonaws.com,Bybit
 IP-CIDR,13.32.121.6/32,Bybit
