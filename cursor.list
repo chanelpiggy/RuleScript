@@ -1,0 +1,10 @@
+HOST,api2.cursor.sh,Cursor
+HOST,api3.cursor.sh,Cursor
+HOST,api4.cursor.sh,Cursor
+HOST-SUFFIX,api5.cursor.sh,Cursor
+HOST,repo42.cursor.sh,Cursor
+HOST-SUFFIX,authentication.cursor.sh,Cursor
+HOST,authenticator.cursor.sh,Cursor
+HOST,marketplace.cursorapi.com,Cursor
+HOST-SUFFIX,cursor-cdn.com,Cursor
+HOST,downloads.cursor.com,Cursor
